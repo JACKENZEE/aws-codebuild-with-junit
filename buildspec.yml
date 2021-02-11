@@ -9,5 +9,5 @@ reports:
   junit:
     files:
       - '**/*'
-    base-directory: "build/test-results"
+    base-directory: "target/surefire-reports/"
     file-format: 'JunitXML'
