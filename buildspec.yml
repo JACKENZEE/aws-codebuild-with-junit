@@ -1,0 +1,13 @@
+version: 0.2
+
+phases:
+  build:
+    commands:
+      - ./mvn test
+
+reports:
+  junit:
+    files:
+      - '**/*'
+    base-directory: "build/test-results"
+    file-format: 'JunitXML'
