@@ -8,6 +8,6 @@ phases:
 reports:
   junit:
     files:
-      - 'target/**/*'
+      - '**/*'
     base-directory: "target/surefire-reports/"
     file-format: 'JunitXML'
