@@ -1,1 +1,3 @@
 # aws-codebuild-with-junit
+
+![Build Status](https://codebuild.ap-northeast-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiREErSlVSdGV4cDJEMHgzaXM5WHlCYzkzRnovYTh2bXVCMkpzL0pwLzZWTG9rQ21aNDJkaDJkSVZ1YnFiY1ZObTBmV2FlU3NpNXdWRjVQNlFiMmlWblhBPSIsIml2UGFyYW1ldGVyU3BlYyI6ImZxcWQ3TmxmVHltQ0JnVHYiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
